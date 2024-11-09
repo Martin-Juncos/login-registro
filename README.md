@@ -223,3 +223,6 @@ export default App;
 ### Conclusión
 
 Este ejemplo detalla cómo realizar un flujo de autenticación completo en una aplicación de React usando JWT. Esta configuración permite que los usuarios accedan a rutas protegidas mientras tienen su sesión iniciada y los desloguea de forma segura al cerrar sesión.
+
+
+Made by Prof. Martin with a lot of 💖 and ☕
